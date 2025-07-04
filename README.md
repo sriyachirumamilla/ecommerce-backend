@@ -5,7 +5,7 @@ This backend supports **user authentication**, **product management**, and **ord
 
 ---
 
-✅ You now officially have a fully working e-commerce backend API, with:
+✅ It's a fully working e-commerce backend API, with:
 
 - 👤 User Registration & Login (JWT-authenticated)  
 - 🛡️ Middleware-protected routes  
@@ -14,7 +14,7 @@ This backend supports **user authentication**, **product management**, and **ord
 - 🔍 Filtering & Pagination Support
 
 🎯 **Project Ready** for Deployment, Integration, or Extension!  
-Perfect for portfolios, internships, freelance gigs, or real-world startup apps.
+And it's Perfect for portfolios, internships, freelance gigs, or real-world startup apps.
 
 ---
 
@@ -105,7 +105,7 @@ Supports filters like:
 ?page=1&limit=5&category=Clothing
 ```
 
-![Product List](./screenshots/products-list.png)
+![Product List](./screenshots/product-list.png)
 
 ✅ 5. Create Order (Protected)  
 **POST** `/api/orders`
