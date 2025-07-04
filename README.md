@@ -98,7 +98,7 @@ Returns a JWT token:
 
 Supports filters like:
 
-![Product List](./screenshots/product-list.png)
+![Product List](screenshots/product-list.png)
 
 
 ✅ 5. Create Order (Protected)
