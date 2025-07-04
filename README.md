@@ -104,7 +104,7 @@ Supports filters like:
 
 ![Product List](./screenshots/product-list.png)
 
-✅ 5. Create Order (Protected)  
+✅ 5. Create Order (Protected)
 **POST** `/api/orders`
 
 ```json
