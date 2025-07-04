@@ -98,8 +98,10 @@ Returns a JWT token:
 
 Supports filters like:
 
+
 ```
-?page=1&limit=5&category=Clothing
+![Product List](./screenshots/product-list.png?v=1)
+
 ```
 
 ![Product List](./screenshots/product-list.png)
