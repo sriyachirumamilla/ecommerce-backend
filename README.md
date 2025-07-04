@@ -13,9 +13,6 @@ This backend supports **user authentication**, **product management**, and **ord
 - 🛒 Order Placement & Viewing  
 - 🔍 Filtering & Pagination Support
 
-🎯 **Project Ready** for Deployment, Integration, or Extension!  
-And it's Perfect for portfolios, internships, freelance gigs, or real-world startup apps.
-
 ---
 
 ## ⚙️ Tech Stack
