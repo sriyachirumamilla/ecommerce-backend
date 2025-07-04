@@ -98,13 +98,8 @@ Returns a JWT token:
 
 Supports filters like:
 
-
-```
-![Product List](./screenshots/product-list.png?v=1)
-
-```
-
 ![Product List](./screenshots/product-list.png)
+
 
 ✅ 5. Create Order (Protected)
 **POST** `/api/orders`
