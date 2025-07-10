@@ -51,7 +51,7 @@ Create a `.env` file in your root directory:
 
 ```PORT=5000
 MONGO_URI=your_mongo_connection_string
-JWT_SECRET=sriyasecret123
+JWT_SECRET=your_jwt_secret
 ```
 ---
 
